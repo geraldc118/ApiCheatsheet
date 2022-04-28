@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import "./GetOnlinePosts"
 // get posts from online api
 // it's return a json file
 class GetOnlinePosts extends Component {

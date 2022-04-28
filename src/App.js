@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import GetOnlinePosts from './components/OnlinePosts/GetOnlinePosts';
+import GetOnlinePosts from './components/Online/GetOnlinePosts';
 import './App.css';
-import GetLocalPosts from './components/LocalPosts/GetLocalPosts';
+import GetLocalPosts from './components/Local/GetLocalPosts';
 
 class App extends Component {
   render() {
